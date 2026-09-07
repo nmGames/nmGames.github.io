@@ -1,7 +1,5 @@
-OWNERDOMAIN=https://nmgames.github.io/
-ironsrc.com, 678753, Direct
-Remember to replace the OwnerDomain Line with your domain. 
-Remember to replace [yourironSourcePublisherAccountID] with your account ID, which you can get from your account manager.
+ownerdomain=nmgames.github.io
+ironsrc.com, 678753, DIRECT
 
 media.net, 8CUH2L333, RESELLER
 sharethrough.com, 3817, RESELLER, d53b998a7bd4ecd2
